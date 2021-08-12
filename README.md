@@ -5,7 +5,7 @@ A simple web-based classroom application that allows instructors to add courses 
 Virtual Classroom is a simple online classroom application, As the world is moving to the 
 internet, so are our tools for learning and acquiring knowledge in different disciplines. Right 
 now, on the web, there is a plethora of online platforms that offer both educators and students 
-options to teach and learn different topics remotely, without the necessity to be physically colocated in a classroom.
+options to teach and learn different topics remotely, without the necessity to be physically co-located in a classroom.
 With this application, Educators in the Classroom can create courses and add lessons to each 
 course such as adding new courses, listing courses by a specific instructor, and displaying the 
 details of a single course. Each course in the MERN Classroom will contain a list of lessons 
@@ -56,10 +56,5 @@ becomes very easy because there is no need to keep data on papers. There is no c
    - To install dependencies, run ```  npm install  ``` or ``` yarn ```
    - To run the application for development, run ```  npm run development  ``` or ``` yarn development ```
 4. Open [localhost:3000](http://localhost:3000/) in the browser
-----
 
 
-----
-
-
----
